@@ -1,10 +1,8 @@
 <project>
-  ...
-  <groupId>com.example.projects</groupId>
+  <groupId>example</groupId>
   <artifactId>documentedproject</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Kubernetes Project</name>
   <url>ldap.linuxacademy.com</url>
-  ...
 </project>
